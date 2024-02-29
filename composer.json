@@ -1,0 +1,18 @@
+{
+  "name": "alpixel/antispam",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "Alpixel\\Antispam\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Benjamin HUBERT",
+      "email": "benjamin@alpixel.fr"
+    }
+  ],
+  "require": {
+    "guzzlehttp/guzzle": ">5.0||^7.0"
+  }
+}
